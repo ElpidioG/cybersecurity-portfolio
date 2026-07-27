@@ -15,13 +15,16 @@ knowledge to bring a security-first mindset to development. See my other work be
 | [File Permissions in Linux](./01-file-permissions-linux) | Access control on a Linux file system | Linux CLI, `chmod`, permission models, least privilege |
 | [Parking Lot USB Exercise](./02-parking-lot-usb-exercise) | Social engineering & physical security risk | Attacker-mindset analysis, PII identification, risk controls |
 | [Vulnerability Assessment Report](./03-vulnerability-assessment-report) | Server/database risk assessment | NIST SP 800-30, threat modeling, risk scoring, remediation planning |
+| [Incident Report Analysis](./04-incident-report-analysis) | DoS incident response | NIST Cybersecurity Framework, firewall/IDS-IPS, SIEM, incident response |
 
 ## Skills Demonstrated
 
 - Linux command-line administration and access control
 - Risk assessment using NIST SP 800-30 Rev. 1
+- Incident response using the NIST Cybersecurity Framework (Identify, Protect, Detect, Respond, Recover)
 - Threat modeling and attacker-mindset analysis
 - Security remediation planning (least privilege, MFA, encryption, backups)
+- Network security concepts (firewalls, IDS/IPS, SIEM, DoS mitigation)
 - Technical writing and documentation of security findings
 
 ## About Me
